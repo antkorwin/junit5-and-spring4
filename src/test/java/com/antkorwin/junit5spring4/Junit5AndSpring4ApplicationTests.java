@@ -5,10 +5,10 @@ import org.junit.jupiter.api.Test;
 
 
 @EnableIntegrationTests
-public class Junit5AndSpring4ApplicationTests {
+class Junit5AndSpring4ApplicationTests {
 
 	@Test
-	public void contextLoads() {
+	void contextLoads() {
 	}
 
 }
